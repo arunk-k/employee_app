@@ -58,7 +58,7 @@ const EditEmployee = () => {
                     </Navbar.Brand>
                 </Container>
             </Navbar>
-            <div style={{ background: "linear-gradient(to right,#106c85, #033543)", minHeight: "100vh" }} className="d-flex justify-content-center pt-5 pb-4 px-3">
+            <div style={{ background: "linear-gradient(to right,#106c85, #033543)", Height: "100vh" }} className="d-flex justify-content-center pt-5 pb-4 px-3">
 
 
                 <div className="p-3 p-md-4 rounded border shadow w-100" style={{ background: "linear-gradient(to right,#15718a, #033543)", maxWidth: "500px" }}>
